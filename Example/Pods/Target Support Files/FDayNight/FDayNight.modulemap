@@ -1,0 +1,6 @@
+framework module FDayNight {
+  umbrella header "FDayNight-umbrella.h"
+
+  export *
+  module * { export * }
+}
